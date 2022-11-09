@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yongwang0705
 - 👀 I’m interested in algorithms and project solutions
 - 🌱 I’m currently learning Java&SpringMVC
-- 💞️ I’m looking for a developer job
 - 📫 How to reach me ikwhere@gmail.com
 
 <!---
